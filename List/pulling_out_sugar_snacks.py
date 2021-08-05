@@ -1,8 +1,10 @@
+# Create w*h size grid
 h, w = map(int, input().split())
 board = [[0 for j in range(w)] for i in range(h)]
 
 n = int(input())
 
+# l:length, d:0(horizontal)/1(vertical), x:y-coordinate, y:x-coordinate
 for i in range(n):
   l, d, x, y = map(int, input().split())
   x = x-1
