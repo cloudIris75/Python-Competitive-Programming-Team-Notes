@@ -1,5 +1,6 @@
 # List Comprehensions
 '''
+board = []
 for i in range(20):
   board.append([])
   for j in range(20):
