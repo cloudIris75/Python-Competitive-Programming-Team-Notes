@@ -1,3 +1,4 @@
+# CodeUp No.6097
 # Create w*h size grid
 h, w = map(int, input().split())
 board = [[0 for j in range(w)] for i in range(h)]
