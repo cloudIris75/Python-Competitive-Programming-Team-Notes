@@ -1,3 +1,4 @@
+# CodeUp No.6096
 # Input 2D list
 board = []
 for i in range(19):
