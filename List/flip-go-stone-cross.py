@@ -1,4 +1,4 @@
-# CodeUp No.6096
+# CodeUp No.6096 바둑알 십자 뒤집기
 # Input 2D list
 board = []
 for i in range(19):

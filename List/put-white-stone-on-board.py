@@ -1,4 +1,4 @@
-# CodeUp No.6095
+# CodeUp No.6095 바둑판에 흰 돌 놓기
 # List Comprehensions
 '''
 board = []

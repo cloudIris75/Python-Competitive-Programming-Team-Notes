@@ -1,4 +1,4 @@
-# CodeUp No.6097
+# CodeUp No.6097 설탕과자 뽑기
 # Create w*h size grid
 h, w = map(int, input().split())
 board = [[0 for j in range(w)] for i in range(h)]

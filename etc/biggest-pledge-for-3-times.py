@@ -1,4 +1,4 @@
-# CodeUp No.4016
+# CodeUp No.4016 세 수의 최대공약수 구하기
 a, b, c = map(int, input().split())
 
 a_array = []

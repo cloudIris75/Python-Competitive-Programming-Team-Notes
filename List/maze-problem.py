@@ -1,4 +1,4 @@
-#CodeUp No.6098
+#CodeUp No.6098 성실한 개미
 box = [list(map(int, input().split())) for _ in range(10)]
 
 # x : y-coordinate, y : x-coordinate
